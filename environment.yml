@@ -1,0 +1,12 @@
+name: Lab4-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - sklearn
+  - joblib
+  - shapely
+  - contextily
